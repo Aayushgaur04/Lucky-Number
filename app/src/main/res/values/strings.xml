@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lucky Number App</string>
+    <string name="dice_image">Dice Image</string>
+    <string name="button_text">Wish Me Luck</string>
+    <string name="edit_text">Enter Your Name</string>
+    <string name="text_view">Welcome To Lucky Number</string>
+</resources>
